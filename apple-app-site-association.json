@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["78B77F8YQ7.com.openup.disposableCamera"],
+        "paths": ["*"]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": ["78B77F8YQ7.com.openup.disposableCamera.Clip"]
+  }
+}
